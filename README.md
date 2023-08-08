@@ -17,8 +17,30 @@ Junior Data Analist at Moscow State University
 Here are some of the main technologies that I use or have used:
 
 ### Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='50'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='50'/>
 
 ### Libraries and Frameworks
 
 ### Tools
+
+
+## A Little More about Me 👩🏻
+```python
+#!/usr/bin/env python
+# coding: utf-8
+
+
+class Julia:
+
+    def __init__(self):
+        self.pronouns = 'she/her'
+        self.role = 'Data Analyst'
+        self.languages = ['EN', 'RU', 'SR']
+        self.hobbies = ['Reading', 'Knitting', 'Coding']
+
+    def say_hi(self):
+        print('Thanks for dropping by, I hope you find some of my work interesting!')
+
+
+me = Julia()
+me.say_hi()
+```
