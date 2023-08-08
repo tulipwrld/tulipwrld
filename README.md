@@ -13,8 +13,13 @@ Junior Data Analist at Moscow State University
 </div>
 
 
-## Skill Set 💪🏻
+<h2> Skill Set 💪🏻 </h2>
 Here are some of the main technologies that I use or have used:
 
-**Programming Languages**
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>
+## Programming Languages
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> 
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>
+
+## Libraries and Frameworks
+
+## Tools
