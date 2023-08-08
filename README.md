@@ -1,4 +1,4 @@
-<h1> Hey there, I'm Julia! 🌷</h1>
+# Hey there, I'm Julia! 🌷
 Junior Data Analist at Moscow State University
 
 
@@ -13,13 +13,12 @@ Junior Data Analist at Moscow State University
 </div>
 
 
-<h2> Skill Set 💪🏻 </h2>
+## Skill Set 💪🏻 ##
 Here are some of the main technologies that I use or have used:
 
-## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>
+### Programming Languages
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='50'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='50'/>
 
-## Libraries and Frameworks
+### Libraries and Frameworks
 
-## Tools
+### Tools
