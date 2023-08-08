@@ -33,7 +33,6 @@ class Julia:
 
     def __init__(self):
         self.pronouns = 'she/her'
-        self.role = 'Data Analyst'
         self.languages = ['EN', 'RU', 'SR']
         self.hobbies = ['Reading', 'Knitting', 'Coding']
 
