@@ -9,8 +9,7 @@ Junior Data Analist at Moscow State University
 * Backend Development
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=tulipwrld&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulipwrld&theme=radical&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulipwrld&theme=light&layout=compact" />
 </div>
 
 
