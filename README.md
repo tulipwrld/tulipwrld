@@ -8,7 +8,7 @@ Junior Data Analist at Moscow State University
 * Machine Learning
 * Backend Development
 
-<a href=""> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tulipwrld&theme=light&line_height=40&hide=css"/> </a>
+<a href=""> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tulipwrld&theme=light&line_height=40&hide=css&layout=compact"/> </a>
 
 
 ## Skill Set 💪🏻 ##
