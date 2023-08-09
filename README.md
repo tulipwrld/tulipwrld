@@ -15,13 +15,13 @@ Junior Data Analist at Moscow State University
 Here are some of the main technologies that I use or have used:
 
 ### Programming Languages
-<img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Python.png' height = '50'/> <img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Cpp.png' height = '50'/>
+<img title = 'Python' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Python.png' height = '50'/> <img title = 'C++' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Cpp.png' height = '50'/>
 
 ### Libraries and Frameworks
-<img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Pandas.png' height = '50'/> <img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Numpy.png' height = '50'/> <img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Plotly.png' height = '50'/> <img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Tensorflow.png' height = '50'/> <img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Scikit-Learn.png' height = '50'/> <img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/PyTorch.png' height = '50'/> <img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Keras.png' height = '50'/>
+<img title = 'Pandas' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Pandas.png' height = '50'/> <img title = 'Numpy' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Numpy.png' height = '50'/> <img title = 'Plotly' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Plotly.png' height = '50'/> <img title = 'Tensorflow' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Tensorflow.png' height = '50'/> <img title = 'Scikit-Learn' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Scikit-Learn.png' height = '50'/> <img title = 'PyTorch' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/PyTorch.png' height = '50'/> <img title = 'Keras' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Keras.png' height = '50'/>
 
 ### Tools
-<img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/VS%20Code.png' height = '50'/> <img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Jupyter%20Notebook.png' height = '50'/> 
+<img title = 'VS Code' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/VS%20Code.png' height = '50'/> <img title = 'Jupyter Notebook' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Jupyter%20Notebook.png' height = '50'/> 
 
 
 ## A Little More about Me 👩🏻
