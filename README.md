@@ -24,7 +24,7 @@ Here are some of the main technologies that I use or have used:
 <img title = 'VS Code' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/VS%20Code.png' height = '50'/> <img title = 'Jupyter Notebook' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Jupyter%20Notebook.png' height = '50'/> <img title = 'Yandex Metrica' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Yandex Metrica.png' height = '50'/> 
 
 
-## A Little More about Me 👩🏻
+## A Little More about Me... 👩🏻
 ```python
 #!/usr/bin/env python
 # coding: utf-8
