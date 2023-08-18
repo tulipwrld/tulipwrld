@@ -15,7 +15,7 @@ Junior Data Analist at Moscow State University
 Here are some of the main technologies that I use or have used:
 
 ### Programming Languages
-<img title = 'Python' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Python.png' height = '50'/> <img title = 'C++' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/C++.png' height = '50'/> <img title = 'C++' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/JavaScript.png' height = '50'/>
+<img title = 'Python' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Python.png' height = '50'/> <img title = 'C++' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/C++.png' height = '50'/> <img title = 'JavaScript' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/JavaScript.png' height = '50'/>
 
 ### Libraries and Frameworks
 <img title = 'Pandas' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Pandas.png' height = '50'/> <img title = 'Numpy' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Numpy.png' height = '50'/> <img title = 'Plotly' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Plotly.png' height = '50'/> <img title = 'Tensorflow' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Tensorflow.png' height = '50'/> <img title = 'Scikit-Learn' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Scikit-Learn.png' height = '50'/> <img title = 'PyTorch' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/PyTorch.png' height = '50'/> <img title = 'Keras' img src = 'https://github.com/tulipwrld/tulipwrld/blob/main/Icons/Keras.png' height = '50'/>
