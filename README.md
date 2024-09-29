@@ -1,5 +1,5 @@
 # Hey there, I'm Julia! 🌷
-Junior Data Analist at Moscow State University
+Junior Data Analist
 
 
 ## Technologies I Love 💻
