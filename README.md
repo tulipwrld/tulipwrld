@@ -1,5 +1,4 @@
 # Hey there, I'm Julia! 🌷
-Junior Data Analist
 
 
 ## Technologies I Love 💻
