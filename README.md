@@ -1,4 +1,4 @@
-# Hey there, I'm Julia! 🌷
+# Hey there, I'm Julia!
 
 
 ## Technologies I Love 💻
